@@ -1,0 +1,11 @@
+dotenv
+flask
+matplotlib
+azure-ai-vision-imageanalysis==1.0.0
+azure-core>=1.36.0
+pillow
+pytest
+azure-ai-agents
+azure-identity
+twilio
+requests
